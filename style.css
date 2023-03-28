@@ -1,0 +1,27 @@
+
+body{
+  background-color:antiquewhite;
+}
+hr{
+  background-color:white;
+  border-color:grey;
+  border-width: 1px;
+  border-style :groove;
+}
+h1{
+    text-decoration:underline ;
+    text-transform:uppercase;
+    color:darkgreen;
+    text-indent: 1px;
+    text text-shadow: 2px 2px 5px red;
+
+
+}
+h2{
+    color:darkgreen;
+ 
+}
+h3{
+   
+    color: darkgreen;
+}
